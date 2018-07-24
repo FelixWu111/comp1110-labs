@@ -41,7 +41,7 @@ able to *help the whole class*.
 
 | Week | Going Well? (1-5) | Group OK? (1-5) | What I have done | What I will do | What impedes me |
 |---|:---:|:---:|---|---|---|
-| 1 ||-|||
+| 1 |Yes|Yes|Reset the intellij|Do lab1 homework|\|
 | 2 ||-|||
 | 3 ||-|||
 | 4 |||||
