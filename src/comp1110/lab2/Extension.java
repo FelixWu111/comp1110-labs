@@ -8,7 +8,6 @@ public class Extension {
             if (array[i]==5) {
                 a=5;
                 break;
-
             }else{a+=array[i];}
         }
         int counter =0;
