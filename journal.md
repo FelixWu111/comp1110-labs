@@ -41,9 +41,9 @@ able to *help the whole class*.
 
 | Week | Going Well? (1-5) | Group OK? (1-5) | What I have done | What I will do | What impedes me |
 |---|:---:|:---:|---|---|---|
-| 1 |/|/|Reset the intellij|Do lab1 homework|\|
-| 2 |/|/|Have finished the 1-11 task of ass1|Do j08 and task12 homework|\|
-| 3 ||-|||
+| 1 |5|/|Reset the intellij|Do lab1 homework|Nothing|
+| 2 |5|/|Have finished the 1-11 task of ass1|Do j08 and task12 homework|Nothing|
+| 3 |5|/|Have finished the task 12 and jo8, o04|Do j09 and j10|Nothing|
 | 4 |||||
 | 5 |||||
 | 6 |||||
