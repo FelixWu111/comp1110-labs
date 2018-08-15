@@ -13,16 +13,16 @@ public class Bucket {
         return this.contents;
     }
     public double empty() {
+        double d = this.contents;
         this.contents=0;
-        return this.contents;
+        return d;
     }
-    public double add(double amount){
+    public void add(double amount){
         if(amount+this.contents<this.capacity){
             this.contents+=amount;
         }else{
             this.contents=this.capacity;
         }
-        return this.contents;
     }
 
     public static void main(String[] args) {
@@ -30,10 +30,15 @@ public class Bucket {
         Bucket small=new Bucket(1.0);
         big.add(20.0);
         small.add(20.0);
+        System.out.println(small.contents);
+        System.out.println(big.contents);
         big.getContents();
         small.getContents();
         big.empty();
-        System.out.println(big.add(small.contents));
+        big.add(small.contents);
+        small.empty();
+        System.out.println(small.contents);
+        System.out.println(big.contents);
 
     }
 
