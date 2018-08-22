@@ -43,8 +43,8 @@ able to *help the whole class*.
 |---|:---:|:---:|---|---|---|
 | 1 |5|/|Reset the intellij|Do lab1 homework|Nothing|
 | 2 |5|/|Have finished the 1-11 task of ass1|Do j08 and task12 homework|Nothing|
-| 3 |5|/|Have finished the task 12 and jo8, o04|Do j09 and j10|Nothing|
-| 4 |||||
+| 3 |5|/|Have finished the task 12 and jo8|Do j09 and j10|Nothing|
+| 4 |5|5|Have finished o04|Do j09 and j10|Nothing|
 | 5 |||||
 | 6 |||||
 | 7 |||||
