@@ -45,7 +45,7 @@ able to *help the whole class*.
 | 2 |5|/|Have finished the 1-11 task of ass1|Do j08 and task12 homework|Nothing|
 | 3 |5|/|Have finished the task 12 and jo8|Do j09 and j10|Nothing|
 | 4 |5|5|Have finished o04|Do j09 and j10|Nothing|
-| 5 |||||
+| 5 |5|5|Have finished task2, task3 of Assignment2|Do the Java homework and task 5 and task 4|Nothing|
 | 6 |||||
 | 7 |||||
 | 8 |||||
