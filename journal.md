@@ -47,7 +47,7 @@ able to *help the whole class*.
 | 4 |5|5|Have finished o04|Do j09 and j10|Nothing|
 | 5 |5|5|Have finished task2, task3 of Assignment2|Do the Java homework and task 5 and task 4|Nothing|
 | 6 |5|5|Have finished task4, task5 of Assignment2|Do the Java homework and task 6|Nothing|
-| 7 |||||
+| 7 |5|5|Have finished j11-j14 and  O04|Prepare for the java Labtest 2 this week|Nohting|
 | 8 |||||
 | 9 |||||
 | 10 |||||
