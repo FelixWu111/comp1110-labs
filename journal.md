@@ -50,6 +50,6 @@ able to *help the whole class*.
 | 7 |5|5|Have finished j11-j14 and  O04|Prepare for the java Labtest 2 this week|Nohting|
 | 8 |5|5|Have reviewed all homework and finished the task6 of assignment2|Do task9 and prepare for final exam|Nothing|
 | 9 |5|5|Finished the task9 of assignment2 and have reviewed all homework|Do task7 and prepare for final exam|Nothing|
-| 10 |||||
-| 11 |||||
-| 12 |||||
+| 10 |5|5|Have reviewed all homework|Do task7 and prepare for final exam|Nothing|
+| 11 |5|5|Have reviewed all homework|Do task7 and prepare for final exam|Nothing|
+| 12 |5|5|Have reviewed all homework|Prepare for final exam|Nothing|
